@@ -1,4 +1,4 @@
-Hi there my name is Patrick
+<h1>Hi, I'm Patrick, an IT Professional</a>☺</h1>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
