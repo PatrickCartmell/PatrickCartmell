@@ -11,7 +11,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]
 
 <h2>🤳Connect with me:</h2>
-
-
-<h2>🤳Connect with me:</h2>
 https://www.linkedin.com/in/patrick-cartmell-422031225/
